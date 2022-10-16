@@ -47,6 +47,7 @@ tilte:
     <li><a href="../지오스토리"> ㈜지오스토리 </a></li>
     <li><a href="../3dgis"> 서울시립대학교 3DGIS랩</a></li>
     <li><a href="../네이버시스템"> ㈜네이버시스템</a></li>
+    <li><a href="../마인드포지"> ㈜마인드포지</a></li>
   </ul>
 </div>
 
