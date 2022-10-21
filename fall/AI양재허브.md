@@ -55,5 +55,5 @@ tilte:
 </div>
 
 <br>
-<img src="../assets/img/지면광고/지오스토리.png" style="width:100%;height:100%;">
+<img src="../assets/img/지면광고/AI양재허브.png" style="width:100%;height:100%;">
 <br>
