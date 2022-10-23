@@ -39,6 +39,7 @@ tilte:
 <br>
 <div class="gaybar__container">
   <ul>
+    <li><a href="../AI양재허브"> AI양재허브</a></li>
     <li><a href="../서울시립대"> 서울시립대학교 GARS랩 </a></li>
     <li><a href="../지오빅데이터"> 지오빅데이터 오픈플랫폼 </a></li>
     <li><a href="../선영"> ㈜선영종합엔지니어링 </a></li>
@@ -49,8 +50,6 @@ tilte:
     <li><a href="../네이버시스템"> ㈜네이버시스템</a></li>
     <li><a href="../마인드포지"> ㈜마인드포지</a></li>
     <li><a href="../부산대학교_LSAR"> 부산대학교 LSAR랩</a></li>
-    <li><a href="../AI양재허브"> AI양재허브</a></li>
-    
   </ul>
 </div>
 
