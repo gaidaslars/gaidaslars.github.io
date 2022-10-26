@@ -40,6 +40,9 @@
 <loc>http://localhost:4000/fall/%ED%96%89%EC%82%AC%EC%9E%A5%EC%98%A4%EC%8B%9C%EB%8A%94%EA%B8%B8/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/fall/%EA%B7%B9%EC%A7%80%EC%97%B0%EA%B5%AC%EC%86%8C/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/fall/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8B%9C%EC%8A%A4%ED%85%9C/</loc>
 </url>
 <url>
@@ -56,6 +59,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/fall/%EC%88%99%EB%B0%95%EC%95%88%EB%82%B4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/fall/%EC%97%90%EC%8A%A4%EC%95%84%EC%9D%B4%EC%97%90%EC%9D%B4/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/fall/%EC%A7%80%EC%98%A4%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/</loc>
