@@ -48,11 +48,11 @@ tilte:
 <img src="../assets/img/program/room1-5.png" style="width:100%;height:100%;">
 <br>
 <br>
-<img src="../assets/img/program/room5수.png" style="width:100%;height:100%;">
+<img src="../assets/img/program/room5s.png" style="width:100%;height:100%;">
 <br>
 <br>
 #### 11월 17일(목)
 
-<img src="../assets/img/program/room5목1.png" style="width:100%;height:100%;">
+<img src="../assets/img/program/room5m1.png" style="width:100%;height:100%;">
 <br>
 <br>

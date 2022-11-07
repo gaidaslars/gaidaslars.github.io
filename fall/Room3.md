@@ -48,13 +48,13 @@ tilte:
 <img src="../assets/img/program/room1-5.png" style="width:100%;height:100%;">
 <br>
 <br>
-<img src="../assets/img/program/room3수.png" style="width:100%;height:100%;">
+<img src="../assets/img/program/room3s.png" style="width:100%;height:100%;">
 <br>
 <br>
 #### 11월 17일(목)
 
-<img src="../assets/img/program/room3목1.png" style="width:100%;height:100%;">
+<img src="../assets/img/program/room3m1.png" style="width:100%;height:100%;">
 <br>
 <br>
 <br>
-<img src="../assets/img/program/room3목2.png" style="width:100%;height:100%;">
+<img src="../assets/img/program/room3m2.png" style="width:100%;height:100%;">

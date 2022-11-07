@@ -46,7 +46,7 @@ tilte:
 <br>
 #### 11월 17일(목)
 
-<img src="../assets/img/program/room7목1.png" style="width:100%;height:100%;">
+<img src="../assets/img/program/room7m1.png" style="width:100%;height:100%;">
 <br>
 <br>
-<img src="../assets/img/program/room7목2.png" style="width:100%;height:100%;">
+<img src="../assets/img/program/room7m2.png" style="width:100%;height:100%;">
