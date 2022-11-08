@@ -44,6 +44,11 @@ tilte:
 </div>
 
 <br>
+<p>
+<a href="../file/2022년_GeoAI_추계학술대회_프로그램북.pdf" target="_blank" download class="button">☞ 2022년 GeoAI 추계학술대회 프로그램북</a><br>
+</p>
+<hr>
+
 <br>
 <img src="../assets/img/program/time1.png" style="width:100%;height:100%;">
 <br>
