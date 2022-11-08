@@ -45,7 +45,7 @@ tilte:
 
 <br>
 <p>
-<a href="../file/2022년_GeoAI_추계학술대회_프로그램북.pdf" target="_blank" download class="button">☞ 2022년 GeoAI 추계학술대회 프로그램북</a><br>
+<a href="../file/programbook.pdf" target="_blank" download class="button">☞ 프로그램북 다운로드</a><br>
 </p>
 <hr>
 
