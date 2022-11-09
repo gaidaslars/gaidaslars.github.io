@@ -74,16 +74,30 @@ associated-companies:
   KEI: "https://www.kei.re.kr/"
   IRIS: https://iris.unist.ac.kr/
   국립기상과학원: http://www.nims.go.kr/MA/main.jsp
+  국방과학연구소: https://www.add.re.kr
+  경북대학교 BK21: https://knubk21four.knu.ac.kr
 
 ad-companies:
+  AI양재허브: "https://ai-yangjae.kr"
   GARSLab: "https://cafe.naver.com/uosrs/"
-  선영종합엔지니어링: "http://sunyoungeng.co.kr/"
-  마인드포지: "https://mindforge.kr/"
   KIGAM: "https://www.kigam.re.kr/"
-  KIOST: "https://www.kiost.ac.kr/kor.do"
+  선영종합엔지니어링: "http://sunyoungeng.co.kr/"
   MATEC: "http://www.matec.kr/"
+  지오셋아이: "http://www.geosati.co.kr/home/index.php"
   지오스토리: "https://www.geostory.co.kr/main/main.html?"
   3DGIS연구실: "http://3dgislab.uos.ac.kr/"
+  네이버시스템: "http://www.neighbor21.co.kr/main"
+  마인드포지: "https://mindforge.kr/"
+  LSARLAB: "https://geology.pusan.ac.kr/geology/index..do"
+  SIA: "https://si-analytics.ai"
+  극지연구소: "https://www.kopri.re.kr/kopri/html/comm/040302.html"
+  국립환경과학원: "https://www.nier.go.kr/NIER/kor/index.do"
+  올포랜드: "http://www.all4land.com"
+  로딕스: "http://www.lodics.com/main/main.php"
+  컨텍: "http://kr.contec.kr"
+  국립재난안전연구원: "https://www.ndmi.go.kr"
+  웨이버스: "http://wavus.co.kr"
+  
 ################
 # --- Logo --- #
 ################
