@@ -47,6 +47,9 @@ tilte:
 <p>
 <a href="../file/programbook.pdf" target="_blank" download class="button">☞ 프로그램북 다운로드</a><br>
 </p>
+<p>
+<a href="../file/초록집.pdf" target="_blank" download class="button">☞ 초록집 다운로드</a><br>
+</p>
 <hr>
 
 <br>
